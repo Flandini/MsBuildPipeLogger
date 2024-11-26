@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>MsBuildPipeLogger</RootNamespace>
     <Description>A logger for MSBuild that sends event data over anonymous or named pipes.</Description>
   </PropertyGroup>
